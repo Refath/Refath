@@ -1,4 +1,4 @@
-Hi, I’m @Refath. I’m interested in Computational and Astrophysics. I’m currently learning Artificial Intelligence. I’m looking to collaborate on research. Reach me @ rbari4690@bths.edu. 
+Hi, I’m @Refath. I’m interested in Computational and Astrophysics. I’m currently learning Artificial Intelligence to analyze Nitrogen Vacancy Centers in Diamonds. 
 
 <!---
 Refath/Refath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
