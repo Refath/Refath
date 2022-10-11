@@ -1,4 +1,4 @@
-Hi, I’m @Refath. I’m working on analyzing Hycean Exoplanetary Atmospheres using Computational Chemistry
+Hi, I’m @Refath. I use DFT and MD simulations to model the atmospheres of Hycean Exoplanets. 
 
 <!---
 Refath/Refath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
